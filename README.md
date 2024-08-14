@@ -10,12 +10,18 @@ The primary objective is to build and evaluate deep learning models that can acc
 
 ## Dataset 📁
 
-The dataset used consists of brain MRI images labeled as either "tumor" or "non-tumor." Key steps involved in dataset handling include:
+The data used in this project consists of a dataset of brain magnetic resonance imaging (MRI) images from patients with brain tumors. The dataset has been divided into two classes: images with tumor presence and normal images. In total, the dataset contains 4,600 images, with 2,513 brain tumor images and 2,087 normal images.
+Key steps involved in dataset handling include:
 
 - **Loading the Dataset**: Importing and examining the dataset.
 - **Reading the Images**: Processing and visualizing the MRI images.
 - **Splitting the Dataset**: Dividing the dataset into training, validation, and test sets.
 - **Creating Data Loaders**: Setting up data loaders for efficient model training and evaluation.
+- 
+#### Below are two sample images from the data set:
+| MRI Scan without a Tumor | MRI Scan with a Tumor |
+|:-------------------------:|:----------------------:|
+| <img src="https://github.com/user-attachments/assets/ca155d90-b56c-49f1-8c23-6dca4c96517f" alt="No Tumor" width="300"/> | <img src="https://github.com/user-attachments/assets/a38f4a4d-bb67-4493-a2ff-ddcf28e93020" alt="Yes Tumor" width="300"/> |
 
 ## Libraries Used 📚
 
