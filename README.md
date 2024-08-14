@@ -17,7 +17,6 @@ Key steps involved in dataset handling include:
 - **Reading the Images**: Processing and visualizing the MRI images.
 - **Splitting the Dataset**: Dividing the dataset into training, validation, and test sets.
 - **Creating Data Loaders**: Setting up data loaders for efficient model training and evaluation.
-- 
 #### Below are two sample images from the data set:
 | MRI Scan without a Tumor | MRI Scan with a Tumor |
 |:-------------------------:|:----------------------:|
