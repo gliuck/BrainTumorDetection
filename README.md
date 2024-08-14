@@ -134,3 +134,6 @@ The models performed differently, with the improved CNN showing promising result
 ## Credits 🙏
 
 The dataset used in this project was obtained from a publicly available source on brain tumor MRI images [Kaggle](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset)
+
+## Author
+Luca Lussu
